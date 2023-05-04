@@ -10,19 +10,7 @@
 					"PackageIdentifier" : "MediaArea.MediaInfo"
 				},
 				{
-					"PackageIdentifier" : "JGraph.Draw"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
-				},
-				{
-					"PackageIdentifier" : "Asana.Asana"
-				},
-				{
 					"PackageIdentifier" : "BandicamCompany.Bandicam"
-				},
-				{
-					"PackageIdentifier" : "Canonical.Ubuntu.2004"
 				},
 				{
 					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
@@ -118,16 +106,7 @@
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
-				},
-				{
 					"PackageIdentifier" : "Python.Python.3.9"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsInstallationAssistant"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
 					"PackageIdentifier" : "Amazon.Corretto.11"
@@ -160,13 +139,10 @@
 					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				},
 				{
-					"PackageIdentifier" : "GoLang.Go.1.19"
+					"PackageIdentifier" : "GoLang.Go"
 				},
 				{
 					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.CLRTypesSQLServer.2019"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Teams"
@@ -178,19 +154,7 @@
 					"PackageIdentifier" : "Volta.Volta"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
-				},
-				{
 					"PackageIdentifier" : "Amazon.AWSCLI"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.GeForceNow"
-				},
-				{
-					"PackageIdentifier" : "OpenVPNTechnologies.OpenVPN"
 				},
 				{
 					"PackageIdentifier" : "Kitware.CMake"
@@ -200,21 +164,6 @@
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
-				},
-				{
-					"PackageIdentifier" : "Inkscape.Inkscape"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				}
 			],
 			"SourceDetails" : 
@@ -223,36 +172,6 @@
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
 				"Name" : "winget",
 				"Type" : "Microsoft.PreIndexed.Package"
-			}
-		},
-		{
-			"Packages" : 
-			[
-				{
-					"PackageIdentifier" : "9PB13JL37ZV4"
-				},
-				{
-					"PackageIdentifier" : "9NB2FLX7X7WG"
-				},
-				{
-					"PackageIdentifier" : "XPDLPKWG9SW2WD"
-				},
-				{
-					"PackageIdentifier" : "9MSPC6MP8FM4"
-				},
-				{
-					"PackageIdentifier" : "9P9TQF7MRM4R"
-				},
-				{
-					"PackageIdentifier" : "9N236HQQTVNH"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
-				"Identifier" : "StoreEdgeFD",
-				"Name" : "msstore",
-				"Type" : "Microsoft.Rest"
 			}
 		}
 	],
